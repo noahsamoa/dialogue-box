@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Handjet|IM+Fell+DW+Pica|Old+Standard+TT|Sixtyfour" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js"></script>  
+  <title>Dialogue Box</title>
+</head>
+<body class="dark-mode">
+  <div class="border-container">
+    <h1>The Choir Invisible</h1>
+    <p id="poemContent">O May I join the choir invisible<br><br>Of those immortal dead who live again<br><br>In minds made better by their presence: live<br><br>In pulses stirr'd to generosity,</p>
+    <div class="triangle" onclick="generateText()">▼</div>
+  </div>
+  <div class="dropdown">
+    <select id="fontSelector" onchange="changeFont(this.value)">
+      <option value="Handjet" style="font-family: 'Handjet', serif;">Handjet</option>
+      <option value="IM Fell DW Pica" style="font-family: 'IM Fell DW Pica', serif;">IM Fell DW Pica</option>
+      <option value="Old Standard TT" style="font-family: 'Old Standard TT', serif;">Old Standard TT</option>
+      <option value="Sixtyfour" style="font-family: 'Sixtyfour', serif;">Sixtyfour</option>
+    </select>
+  </div>
+  <div class="dark-mode-toggle" style="margin-bottom:3rem;" onclick="toggleDarkMode()">Toggle Light Mode</div>
+</body>
+</html>
