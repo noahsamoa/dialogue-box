@@ -1,4 +1,4 @@
-# Poetry Page with Dark/Light Mode Toggle
+# Game Dialogue Component with Dark/Light Mode Toggle
 
 This project is a modular dialogue box featuring a poem by George Eliot with a dynamic text generation effect. Additionally, it includes a toggle switch for dark and light modes for a personalized reading experience, a few fonts to choose the aesthetic, and proper little CSS animation.
 
