@@ -16,6 +16,8 @@ This project is a modular dialogue box featuring a poem by George Eliot with a d
 4. Toggle between dark and light modes using the "Toggle Light Mode" button.
 5. Customize the font by selecting options from the dropdown.
 
+![Screenshot](https://i.imgur.com/hepFTVX.png)
+
 ## Customization
 
 Feel free to customize the project further:
