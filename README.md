@@ -1,26 +1,24 @@
 # Game Dialogue Component with Dark/Light Mode Toggle
 
-This project is a modular dialogue box featuring a poem by George Eliot with a dynamic text generation effect. Additionally, it includes a toggle switch for dark and light modes for a personalized reading experience, a few fonts to choose the aesthetic, and proper little CSS animation.
+This project is a modular dialogue box, featuring a poem by George Eliot. It contains a dynamic text generation effect, a toggle switch for dark and light modes for a personalized reading experience, a few fonts to choose the aesthetic, and a CSS animation for the duration of the text generation.
 
 ## Features
 
-- Engaging text generation effect.
-- Dark/Light mode toggle for improved readability.
-- Font selection dropdown for a personalized touch.
+- Text generation effect
+- Dark/Light mode toggle for improved readability
+- Font selection dropdown
 
 ## Usage
 
 1. Clone or download the repository.
 2. Open the `index.html` file in a web browser.
 3. Interact with the dialogue box, and enjoy.
-4. Toggle between dark and light modes using the "Toggle Light Mode" button.
+4. Toggle between dark and light modes using the "Toggle <TIME> Mode" button.
 5. Customize the font by selecting options from the dropdown.
 
 ![Screencap](https://i.imgur.com/hepFTVX.png)
 
 ## Customization
-
-Feel free to customize the project further:
 
 - **Poem Content**: Modify the `excerptPoem` and `restPoem` variables in the script.js to showcase different poems or texts.
 
@@ -32,8 +30,8 @@ Feel free to customize the project further:
 
 ## Credits
 
-- [George Eliot](https://en.wikipedia.org/wiki/George_Eliot) - Author of the featured poem.
-- Fonts: Handjet, IM Fell DW Pica, Old Standard TT, Sixtyfour - Provided by Google Fonts.
+- [George Eliot](https://en.wikipedia.org/wiki/George_Eliot) - Author of the featured poem
+- Fonts: Handjet, IM Fell DW Pica, Old Standard TT, Sixtyfour - Provided by Google Fonts
 
 ## License
 
