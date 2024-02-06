@@ -16,7 +16,7 @@ This project is a modular dialogue box, featuring a poem by George Eliot. It con
 4. Toggle between dark and light modes using the "Toggle <TIME> Mode" button.
 5. Customize the font by selecting options from the dropdown.
 
-![DEMO](https://i.imgur.com/Kr9Pakg.gif)
+[DEMO LINK](https://library.mcnac.xyz/components/angel/)
 
 ## Customization
 
