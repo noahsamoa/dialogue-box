@@ -16,8 +16,6 @@ This project is a modular dialogue box, featuring a poem by George Eliot. It con
 4. Toggle between dark and light modes using the "Toggle <TIME> Mode" button.
 5. Customize the font by selecting options from the dropdown.
 
-[DEMO LINK](https://library.mcnac.xyz/components/angel/)
-
 ## Customization
 
 - **Poem Content**: Modify the `excerptPoem` and `restPoem` variables in the script.js to showcase different poems or texts.
